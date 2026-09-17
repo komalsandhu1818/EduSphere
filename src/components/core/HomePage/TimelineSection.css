@@ -1,0 +1,5 @@
+.border1{
+    border-image: linear-gradient(90deg, #ff000000, #AFB2BF, #ff000000) 11;
+    border-width: 1px;
+    border-style: groove;
+}
