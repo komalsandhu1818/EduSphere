@@ -240,9 +240,9 @@ Before pushing or deploying:
 
 ## 👤 Author
 
-**YOUR NAME**
+KOMAL SANDHU
 
-GitHub: `https://github.com/YOUR_USERNAME`
+GitHub: https://github.com/komalsandhu1818/EduSphere
 
 ## 📄 License
 
